@@ -2,7 +2,7 @@
 
 ## Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)
 
-Public repository for documenting stories and use cases for the _Participatory Knowledge Practices in Analogue and Digital Image Archives_ (PIA) project. 
+Public repository for documenting stories and use cases for the _Participatory Knowledge Practices in Analogue and Digital Image Archives_ (PIA) project funded by the Swiss National Science Foundation (SNSF). 
 
 PIA aims to design a visual interface with machine learning-based tools to make it easy to annotate, contextualise, organise, and link both images and their metadata from three collections of the _Swiss Society for Folklore Studies / Schweizerische Gesellschaft für Volkskunde (SSFS/SGV)_, to deliberately encourage the participatory use of archives.
 
