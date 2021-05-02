@@ -4,7 +4,14 @@
 
 Public repository for documenting stories and use cases for the _Participatory Knowledge Practices in Analogue and Digital Image Archives_ (PIA) project. 
 
-PIA aims to design a visual interface with machine learning-based tools to make it easy to annotate, contextualise, organise, and link both images and their metadata from three collections of the Swiss _Society for Folklore Studies / Schweizerische Gesellschaft für Volkskunde (SSFS/SGV)_, to deliberately encourage the participatory use of archives.
+PIA aims to design a visual interface with machine learning-based tools to make it easy to annotate, contextualise, organise, and link both images and their metadata from three collections of the _Swiss Society for Folklore Studies / Schweizerische Gesellschaft für Volkskunde (SSFS/SGV)_, to deliberately encourage the participatory use of archives.
+
+There are two main goals:
+
+1. Conducting a ystematic analysis and description of the analogue and digital photo archives
+2. Designing a participatory image archive
+
+In a series of workshops and interviews with both academic and non-academic users, along with archivists and database specialists, the project will analyse the new demands of digital (and process-oriented) knowledge production in order to achieve these goals.
 
 ## Contributing
 
