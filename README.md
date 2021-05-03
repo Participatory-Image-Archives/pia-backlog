@@ -8,7 +8,7 @@ PIA aims to design a visual interface with machine learning-based tools to make 
 
 There are two main goals:
 
-1. Conducting a ystematic analysis and description of the analogue and digital photo archives
+1. Conducting a systematic analysis and description of the analogue and digital photo archives
 2. Designing a participatory image archive
 
 In a series of workshops and interviews with both academic and non-academic users, along with archivists and database specialists, the project will analyse the new demands of digital (and process-oriented) knowledge production in order to achieve these goals.
