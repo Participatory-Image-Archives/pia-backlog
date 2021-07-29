@@ -1,12 +1,15 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-collection(s): ''
+title: ''
+labels: ''
+assignees: ''
 
 ---
+
 # Description
 
-(describe you use case in a sentence or two)
+(describe your use case in a sentence or two)
 
 ## Variation(s)
 
