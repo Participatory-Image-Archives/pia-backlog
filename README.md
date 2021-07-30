@@ -1,4 +1,4 @@
-# pia-stories
+# PIA stories and use cases
 
 ## Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)
 
