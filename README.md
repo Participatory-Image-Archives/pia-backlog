@@ -15,4 +15,4 @@ In a series of workshops and interviews with both academic and non-academic user
 
 ## Contributing
 
-The contribution should be made by creating [issues](https://github.com/Participatory-Image-Archives/pia-stories/issues) via the template (which can be extended) and by associating them with relevant labels. Issues are closed either when an implementation has been completed or when they could not be carried out within the project timeframe (February 2021 - January 2025). A [Kanban board](https://github.com/Participatory-Image-Archives/pia-stories/projects/1) has been set up to monitor the progress of the infrastructure. 
+The contribution should be made by creating [issues](https://github.com/Participatory-Image-Archives/pia-stories/issues) via the template (which can be extended) and by associating them with relevant labels. Issues are closed either when an implementation has been completed or when they could not be carried out within the project timeframe (February 2021 - January 2025).
