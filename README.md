@@ -1,4 +1,4 @@
-# PIA stories and use cases
+# PIA backlog and use cases
 
 ## Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)
 
@@ -12,6 +12,19 @@ There are two main goals:
 2. Designing a participatory image archive
 
 In a series of workshops and interviews with both academic and non-academic users, along with archivists and database specialists, the project will analyse the new demands of digital (and process-oriented) knowledge production in order to achieve these goals.
+
+## Purpose
+
+All new features, bugs, feature requests will be curated in this repo. We will use the issues created here to flesh out features, designs, and requirements.
+
+What happens here, doesn't stay here
+
+- The issues reported in this repo will be worked on in other PIA repositories.
+- Issues created in #pia-backlog will serve as parent issues that track all information about that request.
+- All external documents or issues created in other repos must be linked back to issues created in this repo.
+- We're implementing this system so that we can have complete transparency around our product developement process.
+
+_Adapted from https://github.com/hypothesis/product-backlog_
 
 ## Contributing
 
